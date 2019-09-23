@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <s>
 
-int main() {
+int main(){
 
 return 0;
 }
